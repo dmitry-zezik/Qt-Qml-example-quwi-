@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Variables.qml</file>
+        <file>remote/MainApp.qml</file>
+        <file>ServerCommunication.qml</file>
+    </qresource>
+</RCC>
